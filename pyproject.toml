@@ -2,7 +2,7 @@
 name = "analog-clock"
 version = "0.1.0"
 description = "A simle analog clock"
-authors = ["Kirill Artemov <kaartemov@gmail.com>"]
+authors = ["Kirill Artemov <kaartemov@gmailS.com>"]
 readme = "README.md"
 license = "MIT"
 packages = [{include = "analog-clock"}]
